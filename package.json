@@ -1,0 +1,11 @@
+{
+  "name": "com.anildogan.gametemplate",
+  "version": "1.0.0",
+  "displayName": "Anıl Doğan Game Template",
+  "description": "Zero-gravity climbing & Fusion-ready Unity template.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Anıl Doğan",
+    "url": "https://github.com/dogananil"
+  }
+}
