@@ -1,11 +1,26 @@
 {
   "name": "com.anildogan.gametemplate",
   "version": "1.0.0",
-  "displayName": "Anıl Doğan Game Template",
-  "description": "Zero-gravity climbing & Fusion-ready Unity template.",
-  "unity": "2021.3",
+  "displayName": "Game Template",
+  "description": "Singleplayer and multiplayer template with photon fusion.",
+  "unity": "6000.1",
   "author": {
     "name": "Anıl Doğan",
+    "email": "dogananil@example.com",
     "url": "https://github.com/dogananil"
+  },
+  "keywords": [
+    "gravity",
+    "climbing",
+    "physics",
+    "template",
+    "movement",
+    "photon",
+    "fusion",
+    "zero-g"
+  ],
+  "dependencies": {
+    "com.unity.inputsystem": "1.5.1",
+    "com.photon.fusion": "1.1.7"
   }
 }
