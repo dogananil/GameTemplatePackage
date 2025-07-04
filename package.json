@@ -20,7 +20,7 @@
     "zero-g"
   ],
   "dependencies": {
-    "com.unity.inputsystem": "1.5.1",
-    "com.photon.fusion": "1.1.7"
+    "com.unity.inputsystem": "1.14.0",
+    "com.photon.fusion": "2.0.5"
   }
 }
