@@ -1,6 +1,6 @@
 using UnityEditor;
 using UnityEngine;
-
+using NilinhoGames.UI;
 namespace NilinhoGames.UI
 {
     [CustomEditor(typeof(UIButtonAnimHandler))]
